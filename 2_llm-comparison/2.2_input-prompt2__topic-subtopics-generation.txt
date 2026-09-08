@@ -1,0 +1,3 @@
+<QUESTIONS>
+
+Which 10 main topics are covered in these <QUESTIONS>? Please specify the main topics of the questions and the correct answer options as CSV table, with each column separated via ";" in the following format please: #; Main Topic; Subtopic 1; Subtopic 2; Subtopic 3; (one column per subtopic; use the number of subtopics that is most reasonable for each of the main topics). Specify a topic and subtopics separately for each question. Please do not specify “correct statements” separately, but derive the topics from them and designate them as subtopics. Ensure that all correct statements are covered in these subtopics.

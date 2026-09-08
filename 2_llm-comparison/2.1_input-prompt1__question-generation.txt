@@ -1,0 +1,233 @@
+Create 10 meaningful multiple-choice questions with 4 possible answers each from the following transcript as CSV table, with each column separated via ";" in the following format please: #; Timestamp; Question; Answer Options; Correct Answer(s); Validation Quote
+
+
+<TRANSCRIPT>
+
+The correct answers for each question should come from the same timestamp. Please also indicate the timestamp for each question and distribute them evenly, sort them by timestamp, and select the most important topics from the text. 1-4 of the answer options should be correct for each question. The questions should be clear and the correct answers should be directly derived from the text. Do not mention “according to the transcript”. If statements are not generally valid, replace or adapt them. For validation, please cite the exact answer from the transcript you are referring to.
+
+
+
+1
+00:00:00,532 --> 00:00:10,594
+Here we explain what eukaryotes are and which cellular organelles they contain.
+
+2
+00:00:10,594 --> 00:00:16,556
+You can imagine eukaryotes – also called eukaryonts – as organisms that possess a cell nucleus.
+
+3
+00:00:16,556 --> 00:00:22,189
+These include, for example, humans, animals, plants, fungi and algae. In contrast to them
+
+4
+00:00:22,189 --> 00:00:26,971
+are the prokaryotes, which do not contain a nucleus. Feel free to watch our videos
+
+5
+00:00:26,971 --> 00:00:31,533
+on prokaryotes and on the comparison between eukaryotes and prokaryotes to expand
+
+6
+00:00:31,533 --> 00:00:32,093
+your knowledge.
+
+7
+00:00:35,412 --> 00:00:41,344
+The eukaryotic cell is also referred to as a eucyte. It is characterized by so-called compartmentalization,
+
+8
+00:00:41,344 --> 00:00:47,266
+meaning a division into different reaction spaces. These reaction spaces are the
+
+9
+00:00:47,266 --> 00:00:52,907
+various cell organelles. Today, it is assumed that the oldest eukaryotic
+
+10
+00:00:52,907 --> 00:00:59,660
+fossils are about 1.5 billion years old. One hypothesis suggests that they developed from precursor organisms
+
+11
+00:00:59,660 --> 00:01:06,164
+called urkaryotes. The “urkaryote” is also often called the last common ancestor.
+
+12
+00:01:06,164 --> 00:01:12,169
+In English, this is referred to as the Last Eukaryotic Common Ancestor, or LECA for short. It
+
+13
+00:01:12,169 --> 00:01:18,083
+most likely possessed its own nucleus and mitochondria. The most common theory for
+
+14
+00:01:18,083 --> 00:01:22,608
+the origin of the individual cell organelles is the endosymbiosis theory.
+
+15
+00:01:22,608 --> 00:01:28,719
+The second hypothesis for the development of eukaryotes
+
+16
+00:01:28,719 --> 00:01:33,720
+assumes that mitochondria were introduced into the eukaryotic cell virally by archaea.
+
+17
+00:01:33,720 --> 00:01:39,912
+Very good. Now you know how eukaryotes originated. Let’s now take a closer look
+
+18
+00:01:39,912 --> 00:01:45,674
+at the eukaryotic cell. The most important feature of a eucyte is the presence of a
+
+19
+00:01:45,674 --> 00:01:51,706
+cell nucleus. Eucytes can be divided into several cell types. The most important ones are the animal cell
+
+20
+00:01:51,706 --> 00:01:57,386
+and the plant cell. On average, eucytes have a diameter of about 10 to 30
+
+21
+00:01:57,386 --> 00:02:02,906
+micrometers. Some cells, such as egg cells, can reach up to 100 micrometers.
+
+22
+00:02:02,906 --> 00:02:08,926
+To ensure that all cellular processes, such as chemical reactions, run smoothly,
+
+23
+00:02:08,926 --> 00:02:14,466
+the eukaryotic cell requires a special division of its cell space. The technical term
+
+24
+00:02:14,466 --> 00:02:19,946
+for this structure is compartmentalization. The individual components, called compartments,
+
+25
+00:02:19,946 --> 00:02:25,623
+are the cell organelles, which serve as separate reaction spaces. You can imagine the cell organelles
+
+26
+00:02:25,623 --> 00:02:30,531
+within the eukaryotic cell as similar to the organs in your body. They are
+
+27
+00:02:30,531 --> 00:02:37,573
+separated from each other and each fulfills specific functions. Eukaryotes are characterized
+
+28
+00:02:37,573 --> 00:02:42,746
+by a wide variety of organelles. Let’s take a look at some important ones.
+
+29
+00:02:42,746 --> 00:02:47,659
+As you already know, the nucleus is the key feature of eukaryotes. It contains the
+
+30
+00:02:47,659 --> 00:02:53,473
+genetic material of the cell in the form of chromosomes. The translation of this genetic information into
+
+31
+00:02:53,473 --> 00:02:59,597
+proteins takes place in small particles called ribosomes. You can find these either freely in the cytoplasm
+
+32
+00:02:59,597 --> 00:03:05,307
+or attached to the rough endoplasmic reticulum. The proteins from the endoplasmic reticulum
+
+33
+00:03:05,307 --> 00:03:10,761
+can then be processed in the Golgi apparatus and packaged into vesicles. Energy
+
+34
+00:03:10,761 --> 00:03:16,307
+for the organism, in the form of the energy carrier ATP, is provided by the mitochondria.
+
+35
+00:03:16,307 --> 00:03:21,472
+Like mitochondria, the so-called plastids also originated through endosymbiosis.
+
+36
+00:03:21,472 --> 00:03:25,797
+These include chloroplasts, which are responsible for photosynthesis in plants.
+
+37
+00:03:25,797 --> 00:03:33,018
+Very good! After looking at the structure of eucytes, let’s briefly look at gene regulation in eukaryotes.
+
+38
+00:03:33,018 --> 00:03:39,723
+This refers to the ability to control the activity of certain genes.
+
+39
+00:03:39,723 --> 00:03:44,707
+A gene can be switched on or off, or its activity can be increased or decreased.
+
+40
+00:03:44,707 --> 00:03:52,054
+Gene regulation occurs during protein biosynthesis, specifically during transcription.
+
+41
+00:03:52,054 --> 00:03:57,298
+Transcription is a step in protein biosynthesis in which DNA is transcribed into mRNA.
+
+42
+00:03:58,250 --> 00:04:04,937
+The more often a gene is transcribed, the higher its activity. In prokaryotes,
+
+43
+00:04:04,937 --> 00:04:09,992
+translation — the conversion of mRNA into a protein — takes place immediately after transcription.
+
+44
+00:04:09,992 --> 00:04:16,556
+Eukaryotes, however, have an additional intermediate step between transcription and translation
+
+45
+00:04:16,556 --> 00:04:23,408
+called RNA processing. This step serves to edit and improve the mRNA. Through this,
+
+46
+00:04:23,408 --> 00:04:27,820
+its lifespan can be regulated, protection from degradation ensured, and a signal
+
+47
+00:04:27,820 --> 00:04:34,392
+for translation into a protein provided. But what is the purpose of gene regulation? Quite simple:
+
+48
+00:04:36,106 --> 00:04:40,318
+Prokaryotes can adapt to various environmental conditions, such as
+
+49
+00:04:40,318 --> 00:04:45,761
+lower pH levels or limited oxygen supply. Eukaryotes usually
+
+50
+00:04:45,761 --> 00:04:51,674
+have to react less to fluctuating environmental conditions. A far more important function of gene regulation
+
+51
+00:04:51,674 --> 00:04:56,906
+in eukaryotes, however, is to control development in multicellular organisms. To do this,
+
+52
+00:04:56,906 --> 00:05:02,190
+eukaryotes must activate the right genes at the right time. This enables them
+
+53
+00:05:02,190 --> 00:05:06,384
+to control the development of various cell types, such as muscle cells, nerve cells,
+
+54
+00:05:06,384 --> 00:05:07,678
+or gut cells.
+
+55
+00:05:11,336 --> 00:05:16,010
+Now you know that the key feature of eukaryotes is the nucleus, how they are structured, and
+
+56
+00:05:16,010 --> 00:05:18,016
+you are familiar with the concept of RNA processing.
+

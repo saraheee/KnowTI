@@ -1,0 +1,41 @@
+Apply this on the first main topic and its subtopics
+
+<CONCEPT>= main topics extracted
+<KEYWORDS>=subtopics extracted for each of the main topics
+
+LANGUAGE= English
+
+Create an interactive React component to visualize [CONCEPT] with these requirements:
+Core Concept to Demonstrate:
+<KEYWORDS>
+
+Design Requirements:
+
+* White background, clean modern design
+* Minimal text and labels
+* Visual-first approach (animations, colors, clicking, hovering to receive more information on demand)
+* Clear contrast between two states (e.g., "with" vs "without" the concept)
+
+Decide on using animation and/or user interaction based on the concrete example; all features used should be helpful to understand the [CONCEPT] when integrated: 
+
+Interactive Features:
+* Hover over elements to show tooltip with further information
+* Click on elements for additional information and subviews
+* Drag and drop elements to help understanding concepts
+
+Features for Animation:
+* Play/Pause button to start/stop animations
+* Toggle button to switch between contrasting states
+* Reset button to restart simulation
+* Real-time visual feedback showing the difference
+
+Visual Elements:
+* Use a selection of these elements only when it helps understanding the concept
+* Use color-coded regions/zones
+* Animated particles or elements moving in the space
+* Clear visual separation when concept is active
+* Chaotic/merged appearance when concept is disabled
+* Status indicator showing current state
+
+Language: All labels and text in [LANGUAGE]
+The goal is to make the concept immediately understandable through visual comparison, showing why [CONCEPT] is important. List 5 ideas ranked by the ones that fulfill the learning objectives the best and let the user choose the one to implement as interactive React component.

@@ -1,0 +1,5 @@
+Create 10 meaningful multiple-choice questions with 4 possible answers each from the following transcript. 
+
+<TRANSCRIPT> %TODO: provide the transcript here
+
+The correct answers for each question should come from the same timestamp. Please also indicate the timestamp for each question and distribute them evenly, sort them by timestamp, and select the most important topics from the text. 1-4 of the answer options should be correct for each question. The questions should be clear and the correct answers should be directly derived from the text. Do not mention “according to the transcript”. If statements are not generally valid, replace or adapt them. For validation, please cite the exact answer from the transcript you are referring to.

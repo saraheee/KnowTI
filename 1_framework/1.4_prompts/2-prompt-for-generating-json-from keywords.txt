@@ -1,0 +1,10 @@
+<KEYWORDS> %TODO: provide the keywords
+<TRANSCRIPT> %TODO: provide the transcript
+
+Create a JSON file from the <KEYWORDS> in the following format. Use an icon that is meaningful for the title and use the end time of the interval in which the topic is discussed in the transcript.
+{
+    "id": 1,
+    "minute": "01:45,674",
+    "title": "Euzyte Structure",
+    "icon": "🧬"
+  },

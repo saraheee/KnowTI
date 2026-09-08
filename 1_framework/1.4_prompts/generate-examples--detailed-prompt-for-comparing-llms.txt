@@ -1,0 +1,38 @@
+CONCEPT=Structure of the eukaryotic cell %TODO: replace this with your concept
+Main Learning objectives: % TODO: replace the next few lines with your sub-topics
+* The nucleus as a central feature
+* Structure of eukaryotic cells
+* Distinction from prokaryotes
+
+LANGUAGE= English
+
+Create an interactive React component to visualize [CONCEPT] with these requirements:
+Core Concept to Demonstrate:
+[Main learning objectives]
+
+Design Requirements:
+
+White background, clean modern design
+Minimal text and labels
+Visual-first approach (animations, colors, clicking, hovering to receive more information on demand)
+Clear contrast between two states (e.g., "with" vs "without" the concept)
+
+
+Interactive Features:
+
+Play/Pause button to start/stop animations
+Toggle button to switch between contrasting states
+Reset button to restart simulation
+Real-time visual feedback showing the difference
+
+Visual Elements:
+
+Use color-coded regions/zones
+Animated particles or elements moving in the space
+Clear visual separation when concept is active
+Chaotic/merged appearance when concept is disabled
+Status indicator showing current state
+
+Language: All labels and text in [LANGUAGE]
+The goal is to make the concept immediately understandable through visual comparison, showing why [CONCEPT] is important. List 5 ideas ranked by the ones that fulfill the learning objectives the best and let the user choose the one to implement.
+

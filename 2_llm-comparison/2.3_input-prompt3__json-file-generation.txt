@@ -1,0 +1,10 @@
+<KEYWORDS>
+<TRANSCRIPT>
+
+Create a JSON file from the main topics extracted as <KEYWORDS> in the following format. Use an icon that is meaningful for the title and use the end time of the interval in which the topic is discussed in the <TRANSCRIPT>.
+{
+    "id": 1,
+    "minute": "01:45,674",
+    "title": "Euzyte Structure",
+    "icon": "🧬"
+  },

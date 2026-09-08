@@ -1,0 +1,3 @@
+List ideas for five appealing, interactive, visually clear React examples, with little text and component labels, white background, clear modern design, aspect ratio 1200x700 (width x height) with hovering interactions and animation, which suport the understanding of the following topic and its components:
+
+<Topic hierarchy> % TODO: list extracted topic and subtopic hierarchy here
