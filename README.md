@@ -16,12 +16,12 @@ Overview on the supplementary material provided:
   - contains all input prompts used for comparing different LLMs, as well as the generated outputs and the rubric-based assessment protocol
 
 - **3_user study**
-  - **1_coding-of-utterances.xlsx** — the coding process of the utterances (translated from the language of the participants to English through ChatGPT GPT 5)
-  - **2_statistical-significance.xslsx** — the statistical tests performed for significance
-  - **3_study-questions.xlsx** — the questions, answer options, and scales of all study questionnaires
-  - **4_study-answers.xlsx** — the answers of all participants on the study questionnaires
-  - **5_demographic-data-pdf** — demographic data of study participants
-  - **6_knowledge-vs-confidence.pdf** — a scatterplot of knowledge vs. confidence scores at the three knowledge assessments
+  - **3.1_coding-of-utterances.xlsx** — the coding process of the utterances (translated from the language of the participants to English through ChatGPT GPT 5)
+  - **3.2_statistical-significance.xslsx** — the statistical tests performed for significance
+  - **3.3_study-questions.xlsx** — the questions, answer options, and scales of all study questionnaires
+  - **3.4_study-answers.xlsx** — the answers of all participants on the study questionnaires
+  - **3.5_demographic-data-pdf** — demographic data of study participants
+  - **3.6_knowledge-vs-confidence.pdf** — a scatterplot of knowledge vs. confidence scores at the three knowledge assessments
 
 - **4_video**
   - **knowti-video_(elevenlabs.io).mp4** — a video demonstrating our approach (audio voice from elevenlabs.io)
